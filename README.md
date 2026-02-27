@@ -4,6 +4,14 @@
 
 This project analyzes a subset of companies associated with Sam Altman’s investment portfolio using structured data exported from Dealroom.
 
+**Data Filtering Criteria**
+
+For this analysis, only companies with a valuation of at least $200 million were included.
+
+After applying this threshold, the dataset was reduced to 46 portfolio companies.
+
+This filtering choice was made to focus the analysis on materially scaled ventures and to avoid noise from very early-stage investments.
+
 The objective is to explore portfolio characteristics through quantitative visualizations, focusing on:
 
 - Company valuation
