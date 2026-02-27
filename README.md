@@ -43,11 +43,11 @@ Shows operational scale across companies.
 
 Insight:
 
-Stripe and OpenAI dominate in workforce size.
+- Stripe and OpenAI dominate in workforce size.
 
-Long tail of smaller, capital-efficient startups.
+- Long tail of smaller, capital-efficient startups.
 
-Mix of mature and frontier-stage companies.
+- Mix of mature and frontier-stage companies.
 
 
 2. Portfolio Companies by Total Funding
@@ -56,11 +56,11 @@ Displays cumulative capital raised per company.
 
 Insight:
 
-OpenAI is a capital outlier.
+- OpenAI is a capital outlier.
 
-Clear concentration in high capital-intensity sectors.
+- Clear concentration in high capital-intensity sectors.
 
-Majority of companies operate with significantly smaller funding bases.
+- Majority of companies operate with significantly smaller funding bases.
 
 
 3. Portfolio Companies by Valuation
@@ -69,11 +69,11 @@ Ranks companies by estimated valuation.
 
 Insight:
 
-Portfolio heavily skewed by OpenAI’s valuation.
+- Portfolio heavily skewed by OpenAI’s valuation.
 
-Stripe forms a second-tier anchor.
+- Stripe forms a second-tier anchor.
 
-Significant valuation dispersion across the portfolio.
+- Significant valuation dispersion across the portfolio.
 
 
 4. Portfolio Distribution by Industry
@@ -82,11 +82,11 @@ Counts number of companies per industry.
 
 Insight:
 
-Concentration in fintech, enterprise software, and robotics.
+- Concentration in fintech, enterprise software, and robotics.
 
-Diversified exposure across health, energy, transportation.
+- Diversified exposure across health, energy, transportation.
 
-Broad technological thesis rather than single-sector focus.
+- Broad technological thesis rather than single-sector focus.
 
 
 5. Portfolio Exposure by Industry (Valuation-weighted)
@@ -95,11 +95,11 @@ Aggregates valuation by industry.
 
 Insight:
 
-Enterprise software dominates total valuation exposure.
+- Enterprise software dominates total valuation exposure.
 
-Fintech forms the second largest block.
+- Fintech forms the second largest block.
 
-Smaller industries contribute marginal valuation weight.
+- Smaller industries contribute marginal valuation weight.
 
-This visualization highlights capital concentration rather than company count.
+- This visualization highlights capital concentration rather than company count.
 
