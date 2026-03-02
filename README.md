@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyzes a subset of companies associated with Sam Altman’s investment portfolio using structured data exported from Dealroom.
+This project analyzes a subset of companies associated with Sam Altman’s investment portfolio using structured data exported from [Dealroom.co](https://dealroom.co/).
 
 **Data Filtering Criteria**
 
