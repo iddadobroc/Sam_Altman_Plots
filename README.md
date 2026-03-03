@@ -58,8 +58,8 @@ Displays cumulative capital raised per company.
 
 **Insight:**
 
-- OpenAI is a capital outlier.
-- Clear concentration in high capital-intensity sectors.
+- OpenAI overwhelmingly dominates capital raised.
+- Strong capital concentration in AI and deep-tech sectors.
 - Majority of companies operate with significantly smaller funding bases.
 
 ---
@@ -98,3 +98,19 @@ Aggregates valuation by industry.
 - Fintech forms the second largest block.
 - Smaller industries contribute marginal valuation weight.
 - This visualization highlights capital concentration rather than company count.
+
+---
+
+### 6. Companies Founded by Sam Altman (Timeline)
+
+Maps founding years of companies directly created by Sam Altman and classifies them by entity type (Operating Company, Venture Capital, SPAC).
+
+**Insight:**
+
+- Early focus on consumer technology with Loopt (2005).
+- Strategic shift toward capital allocation through Hydrazine Capital and Apollo Projects.
+- Structural inflection point with OpenAI (2015), marking entry into frontier AI.
+- Expansion into fintech and digital identity infrastructure (World, Tools for Humanity).
+- Introduction of capital structuring via AltC Acquisition Corp (SPAC).
+- Recent movement toward robotics and health-oriented ventures (Merge Labs).
+- Clear progression from operator → venture builder → AI platform architect → capital structurer.
